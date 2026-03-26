@@ -18,6 +18,7 @@ A decentralized note-taking application built on the Stellar network using Sorob
 ## 🌐 Live Deployment
 The contract is currently live on the Stellar Testnet. 
 * **Contract ID:** `CB73RD5RN3KSZ6GZLFIOSZPU5R7BIFX4JS6H7S223NVM6DHOZRQZQQHP`
+* Link Deployment : `https://lab.stellar.org/r/testnet/contract/CB73RD5RN3KSZ6GZLFIOSZPU5R7BIFX4JS6H7S223NVM6DHOZRQZQQHP`
 
 ## 💻 Local Setup & Installation
 
@@ -31,3 +32,4 @@ Make sure you have the following installed:
 Clone this repository and build the smart contract into a `.wasm` file:
 ```bash
 stellar contract build
+<img width="1917" height="955" alt="image" src="https://github.com/user-attachments/assets/3c2ca1c0-e975-4bea-b5e3-f0a9ae81c546" />
