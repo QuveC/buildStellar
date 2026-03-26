@@ -18,6 +18,7 @@ A decentralized note-taking application built on the Stellar network using Sorob
 ## 🌐 Live Deployment
 The contract is currently live on the Stellar Testnet. 
 * **Contract ID:** `CB73RD5RN3KSZ6GZLFIOSZPU5R7BIFX4JS6H7S223NVM6DHOZRQZQQHP`
+* Link Deployment : `https://lab.stellar.org/r/testnet/contract/CB73RD5RN3KSZ6GZLFIOSZPU5R7BIFX4JS6H7S223NVM6DHOZRQZQQHP`
 
 ## 💻 Local Setup & Installation
 
