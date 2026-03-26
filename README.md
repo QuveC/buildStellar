@@ -34,3 +34,5 @@ Clone this repository and build the smart contract into a `.wasm` file:
 stellar contract build
 ```
 ![Bukti Sukses Deploy](image.png)
+![Bukti Sukses Deploy](ss.png)
+
