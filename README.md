@@ -32,4 +32,4 @@ Make sure you have the following installed:
 Clone this repository and build the smart contract into a `.wasm` file:
 ```bash
 stellar contract build
-<img width="1917" height="955" alt="image" src="https://github.com/user-attachments/assets/3c2ca1c0-e975-4bea-b5e3-f0a9ae81c546" />
+![Bukti Sukses Deploy](image.png)
